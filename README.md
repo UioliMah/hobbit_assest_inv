@@ -17,7 +17,7 @@ python hobbit_assest_inv_v3.py
 [ also change the password.]
  <p align="center">
 <img src="Hobbit-Github_Pic.png" alt="Hobbit Asset Inventory" width="100%">
-</p>]
+</p>
 
 # Hobbit Asset Inventory
 
