@@ -16,7 +16,7 @@ python hobbit_assest_inv_v3.py
 ```
 [ also change the password.
  <p align="center">
-  <img src="assets/Hobbit-Github_pic.png" alt="Hobbit Asset Inventory">
+  <img src="Hobbit-Github_pic.png" alt="Hobbit Asset Inventory">
 </p>](https://github.com/UioliMah/hobbit_assest_inv/blob/main/Hobbit-Github_Pic.png)
 
 # Hobbit Asset Inventory
@@ -25,4 +25,4 @@ A lightweight asset inventory management system built with Django.
 
 ## Author
 
-Maahtab kasaei
+Mahtab kasaei
