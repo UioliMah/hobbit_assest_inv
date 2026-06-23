@@ -15,6 +15,13 @@ A Python-based asset inventory and discovery tool.fot the companies that always 
 python hobbit_assest_inv_v3.py
 ```
  also change the password.
+ <p align="center">
+  <img src="assets/Hobbit-Github_pic.png" alt="Hobbit Asset Inventory">
+</p>
+
+# Hobbit Asset Inventory
+
+A lightweight asset inventory management system built with Django.
 
 ## Author
 
