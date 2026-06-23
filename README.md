@@ -14,10 +14,10 @@ A Python-based asset inventory and discovery tool.fot the companies that always 
 ```bash
 python hobbit_assest_inv_v3.py
 ```
- also change the password.
+[ also change the password.
  <p align="center">
   <img src="assets/Hobbit-Github_pic.png" alt="Hobbit Asset Inventory">
-</p>
+</p>](https://github.com/UioliMah/hobbit_assest_inv/blob/main/Hobbit-Github_Pic.png)
 
 # Hobbit Asset Inventory
 
