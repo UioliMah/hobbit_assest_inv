@@ -1,5 +1,4 @@
 
-:::writing{variant="document" id="19473"}
 # Hobbit Asset Inventory
 
 <p align="center">
